@@ -2,7 +2,7 @@
 
 This is a blog website built with Node.js, Express.js, MongoDB and EJS.
 
-##Running the application
+## Running the application
 
 To run the application, follow these steps:
 
